@@ -87,4 +87,4 @@ I design efficient data access layers using EF Core, Dapper, and T-SQL, with a s
 
 ## 🤝 Connect with me
 
-[LinkedIn](https://linkedin.com/in/ahmed-hossam-47230a1a3) • [GitHub](https://github.com/ahmedelhwwary3)
+[LinkedIn](https://www.linkedin.com/in/ahmed-elhwwary/) • [GitHub](https://github.com/ahmedelhwwary3)
