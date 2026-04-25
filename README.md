@@ -1,5 +1,5 @@
 <h1 align="center">Ahmed Elhwwary</h1>
-<h3 align="center">Backend .NET Engineer</h3>
+<h3 align="center">Backend Developer | ASP.NET Core & REST APIs | Scalable Systems</h3>
 
 I'm a Backend .NET Developer focused on building scalable systems using clean architecture and efficient data access.
 
