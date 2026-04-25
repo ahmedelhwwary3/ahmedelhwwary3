@@ -1,5 +1,3 @@
-<img src="images/me.jpg" align="right" width="200"/>
-
 ## 👋 Hi, I'm Ahmed Elhwwary
 
 I'm a **Backend .NET Developer** with strong foundations in **system design, problem solving, and low-level programming**.
