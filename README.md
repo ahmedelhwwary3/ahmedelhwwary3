@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.svg" width="800" alt="Ahmed Elhwwary - Backend Engineer" />
+  <img src="[images/banner.svg](https://github.com/account)" width="800" alt="Ahmed Elhwwary - Backend Engineer" />
 </p>
 
 <img src="images/me.jpg" align="right" width="200"/>
