@@ -1,9 +1,9 @@
 <h1 align="center">Ahmed Elhwwary</h1>
 <h3 align="center">Backend Developer | ASP.NET Core & REST APIs | Scalable Systems</h3>
 
-I'm a Backend .NET Developer focused on building scalable systems using clean architecture and efficient data access.
+I'm a Backend .NET Developer focused on building scalable, maintainable systems using clean architecture principles.
 
-I also have strong low-level foundations, having built complete systems in C++ from scratch without external libraries.
+I design efficient data access layers using EF Core, Dapper, and T-SQL, with a strong emphasis on performance and simplicity.
 
 ---
 
