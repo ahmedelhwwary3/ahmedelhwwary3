@@ -54,7 +54,6 @@ I design efficient data access layers using EF Core, Dapper, and T-SQL, with a s
 ---
 
 ### 🏗️ Architecture & Design
-[![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)](#)
 [![3-Tier Architecture](https://img.shields.io/badge/3--Tier_Architecture-000000?style=for-the-badge)](#)
 [![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-000000?style=for-the-badge)](#)
 [![Unit of Work](https://img.shields.io/badge/Unit_of_Work-000000?style=for-the-badge)](#)
