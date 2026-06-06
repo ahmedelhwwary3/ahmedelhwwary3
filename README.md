@@ -77,9 +77,9 @@ I design efficient data access layers using EF Core, Dapper, and T-SQL, with a s
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmedelhwwary3&show_icons=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedelhwwary3&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelhwwary3&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedelhwwary3&layout=compact&theme=tokyonight)
 
 ---
 
