@@ -8,6 +8,17 @@ I design efficient data access layers using EF Core, Dapper, and T-SQL, with a s
 ---
 
 ## 🚀 Featured Projects
+ 
+### 🏋️ Gym-Flow API
+- Gym management system for members, coaches, and subscriptions
+- JWT Authentication & BCrypt Hashed Refresh Tokens
+- Role-Based and Ownership-Based Authorization
+- Rate Limiting, Logging, and Auditing
+- Workout plans, attendance tracking, and payment management
+- Unit Testing with NUnit
+- EF Core, SQL Server, and 3-Tier Architecture
+
+---
 
 ### 🛒 E-Commerce Management System
 - Full order lifecycle (Cart → Checkout → Delivery → Returns)
